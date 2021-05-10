@@ -32,7 +32,7 @@ public class Main {
 				menu_tambah();
 				break;
 			case 2 :
-				//show_user;
+				customer.show_user();
 				admin.show_admin();
 			}
 			
